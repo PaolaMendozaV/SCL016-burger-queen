@@ -7,6 +7,7 @@ Creado por Barbara Sagredo - Paola Mendoza
 "Justa Panaderia desarrollo interfaz" Es un proyecto realizado en React y bootstrap para cliente real en proceso de negociación.
 
 **- Imagenes proyecto final en proceso de modificación:**
+
 ![](https://i.imgur.com/kvjnxpm.jpg)
 
 ![](https://i.imgur.com/y7JBTtH.jpg)
@@ -19,6 +20,7 @@ Creado por Barbara Sagredo - Paola Mendoza
 Para la primera creación de nuestro proyecto solo nos concentramos en la historia de usuario 1 para luego conversar con nuestro cliente que es lo que agregamos o quitamos.
 
 [Historia de usuario 1] 
+
 Mesero/a debe poder tomar pedido de cliente
 Yo como meserx quiero tomar el pedido de un cliente para no depender de mi mala memoria, para saber cuánto cobrar, y enviarlo a la cocina para evitar errores y que se puedan ir preparando en orden.
 
@@ -41,6 +43,7 @@ Desplegaste tu aplicación y has etiquetado tu versión (git tag).
 
 **- Prototipo baja fidelidad en papel:**
 
+
 ![](https://i.imgur.com/4UQLi31.jpg)
 
 ![](https://i.imgur.com/TgZnNVf.jpg)
@@ -48,6 +51,8 @@ Desplegaste tu aplicación y has etiquetado tu versión (git tag).
 
 
 **- Prototipo alta fidelidad en figma:**
+
+
 ![](https://i.imgur.com/xi2bDuf.png)
 
 ![](https://i.imgur.com/s2YpHFZ.png)
